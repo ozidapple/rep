@@ -21,8 +21,8 @@ http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/24.ts
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/72.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel 11 Kan" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/kan_logo_black.jpg" group-title="",Channel 11 Kan
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/38.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Keshet 12 FHD The_Best_Of" tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="",Keshet 12 FHD The_Best_Of
-http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Keshet 12 FHD" tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="",Keshet 12 FHD
+http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/126.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Reshet 13 FHD" tvg-logo="http://images.globes.co.il/images/NewGlobes/big_image_800/2017/rtrt888.jpg" group-title="",Reshet 13 FHD
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/60.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel 10 FHD" tvg-logo="http://www.hot.net.il/UploadedImages/07_2010/10_1.gif" group-title="",Channel 10 FHD
@@ -39,11 +39,11 @@ http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/142.ts
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/143.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Channel 20" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Arutz20.jpg" group-title="",Channel 20
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/39.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yes Edge (external subtitles)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes-edge.png" group-title="",Yes Edge (external subtitles)
+#EXTINF:-1 tvg-ID="1" tvg-name="Yes Edge (external subtitles)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes-edge.png" group-title="",Yes Edge (external subtitles)
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/49.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sport 3 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport_3.jpg" group-title="",Sport 3 HD
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/16.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport 4 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport_4.jpg" group-title="",Sport 4 HD
+#EXTINF:-1 tvg-ID="2" tvg-name="Sport 4 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport_4.jpg" group-title="",Sport 4 HD
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/73.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Music 24" tvg-logo="http://www.hot.net.il/UploadedImages/09_2010/24_1.bmp" group-title="",Music 24
 http://sk986778.serveftp.com:52280/live/orzidkani/kfr30482798/42.ts
